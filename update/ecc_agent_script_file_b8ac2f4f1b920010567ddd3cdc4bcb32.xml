@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_script_file">
+    <ecc_agent_script_file action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <checksum/>
+        <description>nn</description>
+        <directory>false</directory>
+        <name>nnn</name>
+        <parent/>
+        <script/>
+        <script_attachment/>
+        <source/>
+        <sys_class_name>ecc_agent_script_file</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-17 08:15:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b8ac2f4f1b920010567ddd3cdc4bcb32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>nnn</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="XXX" source="x_273641_xxx">d5dfcf871b120010567ddd3cdc4bcb6f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="XXX">d5dfcf871b120010567ddd3cdc4bcb6f</sys_scope>
+        <sys_update_name>ecc_agent_script_file_b8ac2f4f1b920010567ddd3cdc4bcb32</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-17 08:15:34</sys_updated_on>
+        <use_attachment>false</use_attachment>
+        <version/>
+    </ecc_agent_script_file>
+</record_update>

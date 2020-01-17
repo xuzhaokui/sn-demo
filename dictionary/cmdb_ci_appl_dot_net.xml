@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_appl" label=".NET Application" max_length="40" name="cmdb_ci_appl_dot_net" text_index="true" type="collection">
+        <element label="ii" max_length="40" name="x_273641_xxx_ii" type="color"/>
+    </element>
+</database>

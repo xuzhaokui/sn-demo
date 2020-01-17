@@ -6,21 +6,21 @@
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
-        <name>x_273641_xxx.fffffm</name>
+        <name>x_273641_xxx.aaaaa_user</name>
         <requires_subscription>-1</requires_subscription>
         <scoped_admin>false</scoped_admin>
-        <suffix>fffffm</suffix>
+        <suffix>aaaaa_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-01-17 06:13:54</sys_created_on>
-        <sys_id>11d053cb1b120010567ddd3cdc4bcb4d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>x_273641_xxx.fffffm</sys_name>
+        <sys_created_on>2020-01-17 08:08:19</sys_created_on>
+        <sys_id>5d0bab4b1b920010567ddd3cdc4bcb35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_273641_xxx.aaaaa_user</sys_name>
         <sys_package display_value="XXX" source="x_273641_xxx">d5dfcf871b120010567ddd3cdc4bcb6f</sys_package>
         <sys_policy/>
         <sys_scope display_value="XXX">d5dfcf871b120010567ddd3cdc4bcb6f</sys_scope>
-        <sys_update_name>sys_user_role_11d053cb1b120010567ddd3cdc4bcb4d</sys_update_name>
+        <sys_update_name>sys_user_role_5d0bab4b1b920010567ddd3cdc4bcb35</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-17 08:00:31</sys_updated_on>
+        <sys_updated_on>2020-01-17 08:08:19</sys_updated_on>
     </sys_user_role>
 </record_update>
