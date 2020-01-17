@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>ab7097c71b120010567ddd3cdc4bcbc2</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/xxx</path>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-17 06:12:26</sys_created_on>
+        <sys_id>b37097c71b120010567ddd3cdc4bcbc3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>XXX</sys_name>
+        <sys_package display_value="XXX" source="x_273641_xxx">d5dfcf871b120010567ddd3cdc4bcb6f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="XXX">d5dfcf871b120010567ddd3cdc4bcb6f</sys_scope>
+        <sys_update_name>sys_ux_page_registry_b37097c71b120010567ddd3cdc4bcbc3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-17 06:12:26</sys_updated_on>
+        <title>XXX</title>
+    </sys_ux_page_registry>
+</record_update>
